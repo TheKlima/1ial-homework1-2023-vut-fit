@@ -6,7 +6,7 @@ V první domácí úloze, na Vás čekají následující tři příklady:
 
 1. C202: implementace zásobníku znaků v dynamickém poli (až **2 body**),
 2. C204: převod výrazů z infixové do postfixové notace a jejich vyhodnocení (až **4 body**),
-3. C206: implementace dvousměrně vázaného lineárního seznamu (až **4 body**).\
+3. C206: implementace dvousměrně vázaného lineárního seznamu (až **4 body**).
 
 
 Vaším úkolem je doplnit těla funkcí v souborech _c202.c_, _c204.c_ a _c206.c_ a tyto tři soubory následně odevzdat prostřednictvím STUDISu (nezabalené a v kódování v UTF-8).
